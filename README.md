@@ -1,4 +1,6 @@
 # IT-Tickets-Analysis-Power-BI-Dashboard
+Title: IT Tickets Analysis
+Created by: Shaik Thaheer
 
 Power BI dashboard for IT tickets analysis! 
 
@@ -33,3 +35,8 @@ Here are some insights you can draw from the data:
 
 - Use these metrics to gauge the overall performance and effectiveness of the IT support team.
 - Analyze trends in satisfaction ratings, severity levels, and priority assignments to identify areas for improvement in service delivery.
+
+Dashboard
+
+Click below link to View the IT Ticket Analysis Dashboard on Power BI.
+https://codebasics.io/portfolio/Shaik-Thaheer
