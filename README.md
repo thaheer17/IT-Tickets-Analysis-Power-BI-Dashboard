@@ -38,5 +38,5 @@ Here are some insights you can draw from the data:
 
 Dashboard
 
-Click below link to View the IT Ticket Analysis Dashboard on Power BI.
+Click this link to View the IT Ticket Analysis Dashboard on Power BI.
 https://codebasics.io/portfolio/Shaik-Thaheer
