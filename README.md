@@ -1,5 +1,7 @@
-# IT-Tickets-Analysis-Power-BI-Dashboard
-Title: IT Tickets Analysis
+# IT-Tickets-Analysis-Project
+
+Title: **IT Tickets Analysis**
+
 Created by: Shaik Thaheer
 
 Power BI dashboard for IT tickets analysis! 
@@ -39,5 +41,6 @@ Here are some insights you can draw from the data:
 Dashboard
 
 Click this link to View the IT Ticket Analysis Dashboard on Power BI.
-https://codebasics.io/portfolio/Shaik-Thaheer
+[Click Here](https://codebasics.io/portfolio/Shaik-Thaheer)
+
 ![IT1](https://github.com/thaheer17/IT-Tickets-Analysis-Power-BI-Dashboard/assets/140732104/ce8cf548-1f9b-4a6e-89fb-ce13ee9c08a7)
